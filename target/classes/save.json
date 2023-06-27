@@ -1,0 +1,29 @@
+[
+  {
+    "identifier": "krk",
+    "brand": "powercell",
+    "anode_material": "nikel",
+    "cathode_material": "steel",
+    "electrolyte": "salt",
+    "voltage": 8.75,
+    "capacity": 150.0
+  },
+  {
+    "identifier": "svr",
+    "brand": "powermover",
+    "anode_material": "copper",
+    "cathode_material": "steel",
+    "electrolyte": "acid",
+    "voltage": 7.25,
+    "capacity": 220.0
+  },
+  {
+    "identifier": "shq",
+    "brand": "pipa",
+    "anode_material": "graphite",
+    "cathode_material": "steel",
+    "electrolyte": "crystal",
+    "voltage": 5.0,
+    "capacity": 110.0
+  }
+]

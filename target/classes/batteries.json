@@ -1,0 +1,52 @@
+[
+  {
+    "identifier": "itworks",
+    "brand": "pipa",
+    "anode_material": "graphite",
+    "cathode_material": "steel",
+    "electrolyte": "crystal",
+    "id": "359fe916-991e-415a-9681-3ab2bb20c827",
+    "voltage": 5.0,
+    "capacity": 333.0
+  },
+  {
+    "identifier": "tiredsomuch",
+    "brand": "verynicepipa",
+    "anode_material": "somesecondmaterial",
+    "cathode_material": "anothersecondmaterial",
+    "electrolyte": "crystal",
+    "id": "9815e982-8e35-4a01-968c-9a02a772392d",
+    "voltage": 5.0,
+    "capacity": 110.0
+  },
+  {
+    "identifier": "somethingfortest",
+    "brand": "piipa",
+    "anode_material": "graphite",
+    "cathode_material": "steel",
+    "electrolyte": "crystal",
+    "id": "107dfa32-a2ec-49ac-b034-1d6932436147",
+    "voltage": 12.0,
+    "capacity": 275.5
+  },
+  {
+    "identifier": "somethingfortestonemore",
+    "brand": "piipa",
+    "anode_material": "graphite",
+    "cathode_material": "steel",
+    "electrolyte": "crystal",
+    "id": "7f46f3d4-f7de-4b64-aa7f-3ac4928e50e2",
+    "voltage": 12.0,
+    "capacity": 275.5
+  },
+  {
+    "identifier": "itworkscorrectly",
+    "brand": "popa",
+    "anode_material": "graphite",
+    "cathode_material": "steel",
+    "electrolyte": "crystal",
+    "id": "97e3104c-8c80-4a5e-a937-77e417b840c3",
+    "voltage": 15.0,
+    "capacity": 158.3
+  }
+]
